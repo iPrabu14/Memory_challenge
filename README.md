@@ -30,9 +30,6 @@ This project is a dynamic and challenging "Memory Challenge Game" developed usin
   
 5. **Game Over:** Any deviation from the correct sequence results in the termination of the game.
 
-### Demo
-
-A live demo of the game can be accessed [here](#) (insert link to live demo if available).
 
 ### Development
 
